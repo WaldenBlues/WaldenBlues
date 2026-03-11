@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WaldenBlues
 - 👀 I’m interested in learning cool skills
-- 🌱 I’m currently learning c&C++
+- 🌱 I’m currently learning java
 
 <!---
 WaldenBlues/WaldenBlues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
